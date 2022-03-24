@@ -1,4 +1,4 @@
-let thumperNr = 9
+let thumperNr = 0
 let rabbitNames = ["Ali", "Eir", "Ina", "Una", "Per", "Alf", "Ada", "Ela", "Eli", "Mor", "Oda", "Ask", "Kai", "Ida", "Kim", "Eva", "Bob"]
 music.playTone(440, 50)
 music.playTone(880, 50)
